@@ -30,17 +30,21 @@ I am an engineering student focused on developing real-world projects and streng
 
 ## Projects
 
-### TruthLens - Fake News Detector
-- Full stack application for detecting fake news using AI APIs  
-- Integrated frontend and backend with real-time analysis  
+### TruthLens - AI Powered Fake News Detector
+- Built full stack MERN application with AI API integration  
+- Implemented real-time analysis with verdict, confidence score, and explanation  
+- Designed REST APIs and handled frontend-backend communication  
+- Processes user input and returns structured analysis output  
 
 ### FutureFlow - Career Roadmap Generator
-- Generates personalized career roadmaps based on user goals  
-- Focused on guidance for students and job aspirants  
+- Built a tool to generate personalized career roadmaps based on user goals  
+- Focused on structured guidance for students and job aspirants  
+- Designed user input flow and response handling  
 
 ### CashTrack - Expense Tracker
-- Tracks daily expenses and manages personal finances  
-- Simple and efficient UI for financial tracking  
+- Developed application to track and manage daily expenses  
+- Implemented structured data handling and clean user interface  
+- Focused on usability and efficient data representation  
 
 ---
 
