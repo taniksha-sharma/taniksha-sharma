@@ -42,7 +42,7 @@ My work is centered around full stack development, with growing depth in backend
 ---
 
 <p align="center">
-  Currently improving backend fundamentals, problem-solving, and system design.
+  Currently improving full stack fundamentals, problem-solving, and system design.
 </p>
 
 ---
