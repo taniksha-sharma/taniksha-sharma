@@ -54,4 +54,4 @@ My work is centered around full stack development, with growing depth in backend
   <a href="mailto:staniksha95@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> 
